@@ -2,7 +2,7 @@
 
 Чертёжная песочница упругих ударов. Один мяч, четыре стены, рогатка и бесконечные траектории — всё в монохроме, без цвета и без зависимостей.
 
-**▶ Играть:** https://bagrationrokossovskii1944-web.github.io/Ricochet/
+**▶ Играть:** https://seeeeeyou-glitch.github.io/Ricochet/
 
 Один HTML-файл: canvas 2D + WebAudio, без библиотек, без сборки. Открыл — играешь.
 
